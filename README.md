@@ -1,2 +1,2 @@
 # Hi there! I'm Astro
--# Apparently I'm not a programmer
+Apparently I'm not a programmer
