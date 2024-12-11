@@ -16,12 +16,6 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/fluffyastro/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=fluffyastro.fluffyastro&"  />
 </div>
 
