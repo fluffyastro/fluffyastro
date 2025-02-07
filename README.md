@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://cdn.discordapp.com/attachments/1097215724755370035/1316290983780028436/Default_Remade.png?ex=675a8302&is=67593182&hm=b9b9be770cad7c1174d93a756d1cb4f5c68fd31597e7c92931ec70dd8386b5bc&"  />
-</div>
-
 ###
 
 <div align="center">
