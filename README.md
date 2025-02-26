@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">🛠 Languages and tools</h3>
+<h3 align="left">🛠 Languages and Tools</h3>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats</h3>
 
 ###
 
@@ -62,3 +62,11 @@
 </div>
 
 ###
+
+<h3 align="left">💻   My Discord Presence</h3>
+
+###
+
+<div align="center">
+  <img src="https://lanyard.cnrad.dev/api/546063840803291149" alt="Discord Presence 🤝🏼">
+</div>
