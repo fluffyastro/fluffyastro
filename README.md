@@ -67,6 +67,6 @@
 ###
 
 <div align="center">
-  <img src="https://lanyard.cnrad.dev/api/349535777446952960" alt="Discord Presence 🤝🏼">
+  <img src="https://lanyard.cnrad.dev/api/952464937756786718" alt="Discord Presence 🤝🏼">
 </div>
 
