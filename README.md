@@ -1,6 +1,3 @@
-
-"írd át nyugodtan a readme-met csak ne bannoltass" - astro
-
 ###
 
 <h1 align="center">hey there 👋</h1>
@@ -70,6 +67,6 @@
 ###
 
 <div align="center">
-  <img src="https://lanyard.cnrad.dev/api/546063840803291149" alt="Discord Presence 🤝🏼">
+  <img src="https://lanyard.cnrad.dev/api/349535777446952960" alt="Discord Presence 🤝🏼">
 </div>
 
