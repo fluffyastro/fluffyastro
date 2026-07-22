@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">My name is Astro!<br><br>- 📚 Currently learning software engineering in high school<br>- ⚡ In my free time I play video games, and do many other exciting stuff</p>
+<p align="left">My name is Gastro!<br><br>- 📚 Currently learning software engineering in high school<br>- ⚡ In my free time I play video games, and do many other exciting stuff</p>
 
 ###
 
